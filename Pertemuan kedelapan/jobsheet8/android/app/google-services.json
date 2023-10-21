@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46570477831",
+    "project_id": "flutterfirebase-4fd10",
+    "storage_bucket": "flutterfirebase-4fd10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46570477831:android:6af0b6e1977f0419088da2",
+        "android_client_info": {
+          "package_name": "com.clauria.jobsheet8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46570477831-37dhvdi121jb598vi2a8h0p68v98d19o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clauria.jobsheet8",
+            "certificate_hash": "98c1620bcb9f67e786603a70f8e23bf1f66167b5"
+          }
+        },
+        {
+          "client_id": "46570477831-v1jejublkejov6jf4si0nvpuk3n7bvcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsq_aGsvjt6k7BM9_TCgOeAVhqj3645g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46570477831-v1jejublkejov6jf4si0nvpuk3n7bvcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
